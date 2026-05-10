@@ -1,0 +1,8 @@
+{
+    "ISO_17025_Requirements": [
+        {"item": "6.2", "title": "Pessoal", "requirement": "Registros de competência em solda de cablagens e instrumentação de Dummies."},
+        {"item": "6.3", "title": "Instalações", "requirement": "Monitoramento de temperatura (20.6°C a 22.2°C) para calibração de Dummies."},
+        {"item": "6.4", "title": "Equipamentos", "requirement": "Rastreabilidade de calibração de acelerômetros e células de carga."},
+        {"item": "7.6", "title": "Incerteza", "requirement": "Avaliação da incerteza de medição para ensaios de impacto frontal."}
+    ]
+}
